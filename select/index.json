@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "死ぬにはいい日だった",
+  "base_artist": "+α/あるふぁきゅん。",
+  "createdAt": "2026-03-12T22:38:30.430087Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "死ぬにはいい日だった",
+      "artist": "+α",
+      "has_synced": false,
+      "path": "select/01_死ぬにはいい日だった_+α.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "死ぬにはいい日だった",
+      "artist": "+α/あるふぁきゅん。",
+      "has_synced": false,
+      "path": "select/02_死ぬにはいい日だった_+α_あるふぁきゅん。.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "死ぬにはいい日だった",
+      "artist": "+α/Alfakyun.",
+      "has_synced": false,
+      "path": "select/03_死ぬにはいい日だった_+α_Alfakyun..txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "死ぬにはいい日だった",
+      "artist": "+α/あるふぁきゅん。",
+      "has_synced": false,
+      "path": "select/pl_01_死ぬにはいい日だった_+α_あるふぁきゅん。.txt"
+    }
+  ]
+}
